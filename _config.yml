@@ -37,11 +37,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/papers/", text: "Call for Papers"}
- - {permalink: "/team/", text: "Committees"}
- - {permalink: "/speakers/", text: "Keynote Speakers"}
- - {permalink: "/program/", text: "Program"}
+ - {permalink: "/2025/", text: "Home"}
+ - {permalink: "/2025/papers/", text: "Call for Papers"}
+ - {permalink: "/2025/team/", text: "Committees"}
+ - {permalink: "/2025/speakers/", text: "Keynote Speakers"}
+ - {permalink: "/2025/program/", text: "Program"}
 # - {permalink: "/history/", text: "History of RECOMB SEQ"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
