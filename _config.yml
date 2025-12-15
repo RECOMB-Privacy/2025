@@ -24,9 +24,9 @@ siteVerification: ""
 organizerName: "RECOMB-P&E"
 organizerAlternateName: "RECOMB-P&E"
 organizerDescription: "A research community tackling privacy and equity challenges in biomedical research"
-organizerEmail: "recomb-privacy-equity@googlegroups.com"
+organizerEmail: "recomb-privacy@googlegroups.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://github.com/RECOMB-Privacy-Equity"
+organizerLink: "https://github.com/RECOMB-Privacy"
 
 # Head
 metaKeywords: "recomb, privacy, equity"
